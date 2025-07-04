@@ -1,1 +1,3 @@
-Other Sequences
+---
+title: Other Sequences
+---
